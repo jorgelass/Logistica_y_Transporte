@@ -1,0 +1,24 @@
+# PowerApps
+
+Esta carpeta contiene las aplicaciones exportadas desde Microsoft Power Apps en formato `.zip`.
+
+## Notas importantes
+
+- Cada archivo `.zip` es la **exportación oficial de la app**, manteniendo toda la estructura, conectores y referencias internas.
+- Para usar la app en otro entorno de Power Apps, se debe importar el paquete mediante la opción **Importar aplicación**.
+- Los archivos están comprimidos para **preservar la integridad de la aplicación** y evitar errores.
+- No es necesario descomprimir los `.zip` dentro del repositorio.
+- Las aplicaciones son **idénticas en funcionalidad**, diferenciándose únicamente por las listas de SharePoint a las que están conectadas (entorno corporativo Gonvarri o entorno universitario UBU).
+
+## Acceso directo a las aplicaciones
+
+Para probar las aplicaciones sin necesidad de importar los archivos `.zip`, se puede acceder directamente mediante los siguientes enlaces de Power Apps:
+
+- **Aplicación Principal (Gonvarri - Premium con OCR):** [Abrir App](https://apps.powerapps.com/play/e/default-7746325c-0dd0-4e2c-89a7-dd24026d484a/a/801fad66-e2cb-4aba-987d-250a1c8295fc?tenantId=7746325c-0dd0-4e2c-89a7-dd24026d484a&hint=d2735564-7268-4757-be98-3017a2f9e9ac&sourcetime=1770961060759)  
+- **Aplicación Secundaria QR Camioneros (Gonvarri - Premium con OCR):** [Abrir App](https://apps.powerapps.com/play/e/default-7746325c-0dd0-4e2c-89a7-dd24026d484a/a/5a8c7c46-4287-4c72-9c0f-1483b3f3f19e?tenantId=7746325c-0dd0-4e2c-89a7-dd24026d484a&hint=79abecc2-2d59-45b7-95c4-0efe8fde2b57&sourcetime=1770961573718)  
+- **Aplicación Principal (UBU - Sin OCR):** [Abrir App](https://apps.powerapps.com/play/appId=XXXXXXXXXXXXXXXX)  
+- **Aplicación Secundaria QR Camioneros (UBU - Sin OCR):** [Abrir App](https://apps.powerapps.com/play/appId=XXXXXXXXXXXXXXXX)  
+
+> Nota: Para acceder a estas aplicaciones es necesario iniciar sesión con una cuenta de Power Apps compatible. La versión premium incluye funcionalidades adicionales, como OCR, que requieren licencia específica.
+
+
